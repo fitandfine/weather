@@ -5,12 +5,12 @@
  * using the wttr.in API. Demonstrates basic C++ I/O, string handling,
  * and executing system commands.
  *
- * Build: g++ -std=c++17 weather.cpp -o weather
+ * 
  *
  * Usage:
  *   ./weather London
  *   ./weather "New York"
- * api repo: https://github.com/chubin/wttr.in
+ * 
  */
 
 #include <iostream>
